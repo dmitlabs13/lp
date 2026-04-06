@@ -56,5 +56,10 @@ lrwxrwxrwx  1 root root       30 Apr  5 17:44 vmlinuz -> vmlinuz-6.18.20-061820-
 lrwxrwxrwx  1 root root       25 Apr  5 16:38 vmlinuz.old -> vmlinuz-6.8.0-107-generic
 ```
 
+Перезагрузились, проверяем версию ядра
+```
+sadmin@lp-ubn4:~$ uname -r
+6.18.20-061820-generic
+```
 
 
